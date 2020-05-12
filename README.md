@@ -98,4 +98,10 @@ Data Defined Language
 * sp_addlogin Drop Login
 
   刪除可登入使用者
+  
+* sp_grantdbaccess Create User
+
+* sp_revokedbaccess Drop User
+
+  能執行此指令的角色，僅限於 sysadmin 或是 securityadmin。
 
