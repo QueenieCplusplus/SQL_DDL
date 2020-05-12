@@ -57,11 +57,9 @@ Data Defined Language
 
 * Drop Package
 
-   備註
-
-Drop Package
+* Create Package Body
 
 # PostgreSQL 為例
 
-Cluster
+* Cluster
 
