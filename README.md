@@ -55,6 +55,8 @@ Data Defined Language
 
 * Drop User
 
+* Grant
+
 # Oracle 為例
 
 * Create Cluster 
