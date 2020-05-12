@@ -93,5 +93,9 @@ Data Defined Language
 
 * sp_addlogin Create Login
 
+  建立可登入使用者
+
 * sp_addlogin Drop Login
+
+  刪除可登入使用者
 
