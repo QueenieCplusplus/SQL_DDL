@@ -97,7 +97,7 @@ Data Defined Language
 
   建立可登入使用者
 
-* sp_addlogin Drop Login
+* sp_droplogin Drop Login
 
   刪除可登入使用者
   
