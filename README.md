@@ -67,3 +67,5 @@ Data Defined Language
 
 * Cluster
 
+* Create Event Trigger
+
