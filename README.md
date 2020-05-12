@@ -48,6 +48,8 @@ Data Defined Language
 * Create Trigger
 
   * 屬性包含 timing 和 event。
+  
+* Drop Trigger
 
 # Oracle 為例
 
@@ -62,6 +64,10 @@ Data Defined Language
 * Drop Package
 
 * Create Package Body
+
+* Create Sequence
+
+* Drop Sequence
 
 # PostgreSQL 為例
 
