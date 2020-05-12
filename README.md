@@ -101,6 +101,8 @@ Data Defined Language
   
 * sp_grantdbaccess Create User
 
+  能執行此指令的角色，僅限於 sysadmin 或是 securityadmin。
+
 * sp_revokedbaccess Drop User
 
   能執行此指令的角色，僅限於 sysadmin 或是 securityadmin。
