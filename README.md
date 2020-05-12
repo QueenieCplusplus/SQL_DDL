@@ -1,6 +1,8 @@
 # SQL DDL
 Data Defined Language
 
+![ddl](https://docs.oracle.com/cd/E18315_02/doc.214/e18306/img/table_process.gif)
+
 可建立、刪除、更新資料庫中的物件，主要是給管理者使用的命令。
 
 通常要建立物件時，使用語法如下：
