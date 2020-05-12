@@ -7,6 +7,10 @@ Data Defined Language
 
 * 建立 Create XXX
 
+  在建立物件時，倘若資料庫中已有同名物件存在，便會回傳錯誤，故可用
+  
+  * Create Table If Not Exists foo
+
 * 刪除 Drop XXX
 
 * 更改屬性 Alter XXX
