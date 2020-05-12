@@ -51,6 +51,10 @@ Data Defined Language
   
 * Drop Trigger
 
+* Create User
+
+* Drop User
+
 # Oracle 為例
 
 * Create Cluster 
@@ -78,4 +82,10 @@ Data Defined Language
 * Create Sequence
 
 * Drop Sequence
+
+# DB2 為例
+
+* Create Alias
+
+* Drop Alias
 
