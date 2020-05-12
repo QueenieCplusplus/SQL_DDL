@@ -65,13 +65,17 @@ Data Defined Language
 
 * Create Package Body
 
-* Create Sequence
+* Create Synonym
 
-* Drop Sequence
+* Drop Synonym
 
 # PostgreSQL 為例
 
 * Cluster
 
 * Create Event Trigger
+
+* Create Sequence
+
+* Drop Sequence
 
