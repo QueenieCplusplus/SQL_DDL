@@ -45,6 +45,10 @@ Data Defined Language
 
 * Drop Function
 
+* Create Trigger
+
+  * 屬性包含 timing 和 event。
+
 # Oracle 為例
 
 * Create Cluster 
