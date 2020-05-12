@@ -89,3 +89,9 @@ Data Defined Language
 
 * Drop Alias
 
+# SQL Server 為例
+
+* sp_addlogin Create Login
+
+* sp_addlogin Drop Login
+
