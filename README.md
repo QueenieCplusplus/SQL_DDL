@@ -17,5 +17,51 @@ Data Defined Language
 
 此指令是用來建立或是刪除資料庫中的資料表或是 View 等資料庫物件，其他物件包含 Trigger 以及 Procedure。
 
+# MySQL 為例
 
-(to be continued...)
+* Create Table
+
+* Create Table As
+
+* Create Temporary Table 
+
+* Drop Trable
+
+* Alter Table
+
+* Truncate Table
+
+* Create Index
+
+* Create View
+
+* Drop View
+
+* Create Procedure
+
+* Drop Procedure
+
+* Create Function
+
+* Drop Function
+
+# Oracle 為例
+
+* Create Cluster 
+
+* Drop Cluster
+
+* Create Package
+
+  * package 為 procedure ｜ function 的集合體。
+
+* Drop Package
+
+   備註
+
+Drop Package
+
+# PostgreSQL 為例
+
+Cluster
+
